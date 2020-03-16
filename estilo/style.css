@@ -1,0 +1,19 @@
+h1{
+	color:rgb(146, 46, 46);
+	font-size: 5em;
+}
+
+p {
+	color:darkblue;
+   font-family: Impact, Haettenschweiler,<link href="https://fonts.googleapis.com/css?family=Trade+Winds&display=swap" rel="stylesheet">;
+	   font-size: 2em;
+}
+
+a:link{
+	color:mediumaquamarine; 
+	font-size: 2em;
+}
+
+a:hover{
+	text-decoration: none;
+}
